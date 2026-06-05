@@ -18,4 +18,5 @@ https://ashish6099.github.io/Ashish-Portfolio/
 
 ## Contact
 - GitHub: https://github.com/Ashish6099
-- LinkedIn: linkedin.com/in/ashish-rauniyar-6600961a8
+- LinkedIn: https://linkedin.com/in/ashish-rauniyar-6600961a8
+  
